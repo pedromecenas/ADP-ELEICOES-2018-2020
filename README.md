@@ -5,7 +5,8 @@ Nos anos de eleicoes os brasileiros são obrigados a votar, mas muitos deles ain
 
 Essa pesquisa mostra a quantidade desses analfabetos que votam
 
-#Recursos
+#Recursos#
+
 jupyter notebook
 Python
 Matplotlib
